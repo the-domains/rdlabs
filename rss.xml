@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RDLabs]]></title>
+        <description><![CDATA[RDLabs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jul 2016 09:18:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Red Diamond Laboratories]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55f29594-1f9e-4e23-98af-877fbfa6692d.png">]]></description>
+            <link>undefinedred-diamond-laboratories/index.html</link>
+            <guid isPermaLink="false">6a184588-4007-4c8b-8351-55c8444d266e</guid>
+            <pubDate>Sat, 02 Jul 2016 09:18:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
